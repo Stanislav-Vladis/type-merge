@@ -64,4 +64,8 @@
       </plugins>
     </pluginManagement>
   </build>
+
+
+<!-- тут чтото сделал -->
+
 </project>
